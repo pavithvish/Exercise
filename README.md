@@ -1,1 +1,1 @@
-# Exercise
+# Currency Converter app
